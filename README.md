@@ -43,9 +43,13 @@
 ## 🌌 Mi Actividad y Estadísticas (En tiempo real)
 
 <!-- Gráfico de líneas de actividad -->
-
 <div align="center">
-  <!-- Tarjetas de estadísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=esneidermoo19&show_icons=true&theme=tokyonight&locale=es&hide_border=true" width="48%" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esneidermoo19&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&custom_title=Mi%20L%C3%ADnea%20de%20C%C3%B3digo" alt="Gráfico de actividad de GitHub" />
 </div>
 
+<br/>
+
+<!-- Tarjeta de Racha Activa -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esneidermoo19&theme=tokyonight&locale=es&hide_border=true" alt="Racha de GitHub" />
+</div>
