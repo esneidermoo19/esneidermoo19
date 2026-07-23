@@ -47,6 +47,5 @@
 <div align="center">
   <!-- Tarjetas de estadísticas -->
   <img src="https://github-readme-stats.vercel.app/api?username=esneidermoo19&show_icons=true&theme=tokyonight&locale=es&hide_border=true" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esneidermoo19&theme=tokyonight&locale=es&hide_border=true" width="48%" alt="Racha de GitHub" />
 </div>
 
