@@ -40,11 +40,4 @@
 
 ---
 
-## 🌌 Mi Actividad y Estadísticas (En tiempo real)
 
-
-
-<!-- Tarjeta de Racha Activa -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esneidermoo19&theme=tokyonight&locale=es&hide_border=true" alt="Racha de GitHub" />
-</div>
