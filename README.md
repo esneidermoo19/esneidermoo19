@@ -1,6 +1,6 @@
 <!-- Header animado tipo escritura -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=%C2%A1Hola,+soy+Edwin+Esneider!;Desarrollador+de+Software;Dise%C3%B1o+3D...&random=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=%C2%A1Hola,+soy+Edwin+Esneider!;Desarrollador+de+Software...&random=false" alt="Typing SVG" />
 </div>
 
 <br/>
