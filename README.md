@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre mí
 - 🔭 Actualmente enfocado en el **Desarrollo Web (Python, JS) y de Escritorio (Java Swing, KivyMD)**.
-- 🌱 Perfeccionando habilidades en gestión de **Bases de Datos Relacionales (PostgreSQL, SQLite)** y modelado/diseño 3D.
+- 🌱 Perfeccionando habilidades en gestión de **Bases de Datos Relacionales (PostgreSQL, SQLite)**.
 - 💡 Me apasiona construir aplicaciones intuitivas, desde sistemas POS e inventarios hasta plataformas interactivas.
 - 🎓 Aprendiz SENA en desarrollo de software.
 
