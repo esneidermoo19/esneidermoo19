@@ -27,7 +27,7 @@
 
 ## 🚀 Sobre mí
 - 🎓 Aprendiz SENA en desarrollo de software.
-- 🔭 Actualmente enfocado en el **Desarrollo Web (Python, JS) y de Escritorio (Java Swing, KivyMD)**.
+- 🔭 Actualmente enfocado en el desarrollo full-stack: APIs con FastAPI y Express/TypeScript, interfaces con React y Flutter, y sistemas de gestión (hoteles, granjas) con PostgreSQL, pruebas y CI/CD.
 - 🌱 Perfeccionando habilidades en gestión de **Bases de Datos Relacionales (PostgreSQL, SQLite)**.
 - 📚 Aprendiendo ahora: **FastAPI, Flutter, testing y CI/CD con GitHub Actions**.
 - 💡 Me apasiona construir aplicaciones intuitivas, desde sistemas POS e inventarios hasta plataformas interactivas.
