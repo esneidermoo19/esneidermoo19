@@ -42,8 +42,7 @@
 - 🛒 **Treintaclone**: app de punto de venta con Python y KivyMD, inspirada en Treinta, con inventario, ventas y reportes.
 - 📚 **Biblioteca_Flask**: sistema de gestión de biblioteca con autenticación, contraseñas con hash, validación de registro y arquitectura con blueprints.
 - ☕ **App de escritorio en Java Swing** para gestión de un hotel.
-- 🧩 **Extensión de Chrome** para llevar el progreso de lo que veo en Crunchyroll.
-- 📝 **Ingeniería de requisitos**: material académico sobre el estándar IEEE 830 / SRS, con presentaciones y guías de estudio.
+
 
 > 🌎 *EN: Software developer and SENA apprentice focused on web and desktop apps with Python, JavaScript and Java. Open to collaboration and new opportunities.*
 
