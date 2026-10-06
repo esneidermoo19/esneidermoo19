@@ -44,7 +44,7 @@
 - ☕ **App de escritorio en Java Swing** para gestión de un hotel.
 
 
-> 🌎 *EN: Software developer and SENA apprentice focused on web and desktop apps with Python, JavaScript and Java. Open to collaboration and new opportunities.*
+> 🌎 *ES: Desarrollador de software y aprendiz del SENA enfocado en aplicaciones web y de escritorio con Python, JavaScript y Java. Abierto a la colaboración y nuevas oportunidades.*
 
 ---
 
