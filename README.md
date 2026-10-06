@@ -82,7 +82,7 @@
 
 ## 📊 Estadísticas de GitHub
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=esneidermoo19&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esneidermoo19&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes" /> <br/> <img src="https://streak-stats.demolab.com/?user=esneidermoo19&theme=tokyonight&hide_border=true" alt="Racha" /> </div>
-<div align="center"> <i>¿Tienes una idea o proyecto? ¡Escríbeme! 🚀</i> </div>
+<div align="center"> 
 
 ---
 
