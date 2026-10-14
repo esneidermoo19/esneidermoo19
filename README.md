@@ -32,7 +32,7 @@
 - 📚 Aprendiendo ahora: **FastAPI, Flutter, testing y CI/CD con GitHub Actions**.
 - 💡 Me apasiona construir aplicaciones intuitivas, desde sistemas POS e inventarios hasta plataformas interactivas.
 - 🤝 Abierto a colaborar en proyectos de **TU_AREA**.
-- ⚡ Dato curioso: **TU_DATO_CURIOSO**.
+
 
 ### 🧱 En qué he trabajado
 - 🐔 **Granja Mavic**: sistema web full-stack y PWA de gestión avícola para el control integral de galpones, lotes, producción de huevos, alimento, sanidad y ventas. Construido con Express/TypeScript, Prisma ORM, React/Vite y Tailwind CSS, con soporte para funcionamiento offline.
