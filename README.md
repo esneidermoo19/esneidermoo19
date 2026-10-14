@@ -31,7 +31,7 @@
 - 🌱 Perfeccionando habilidades en gestión de **Bases de Datos Relacionales (PostgreSQL, SQLite)**.
 - 📚 Aprendiendo ahora: **FastAPI, Flutter, testing y CI/CD con GitHub Actions**.
 - 💡 Me apasiona construir aplicaciones intuitivas, desde sistemas POS e inventarios hasta plataformas interactivas.
-- 🤝 Abierto a colaborar en proyectos de **TU_AREA**.
+
 
 
 ### 🧱 En qué he trabajado
