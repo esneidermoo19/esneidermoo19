@@ -39,9 +39,7 @@
 - 🏨 **Sistema de gestión hotelera (PMS)** con Flask: roles de administrador, recepcionista, empleado y cliente. Migré la base de datos de SQLite a PostgreSQL, lo desplegué con Docker, Gunicorn y Coolify, y documenté historias de usuario y un manual de usuario.
 - 🔄 **Hotel_Fast, reescritura del PMS con FastAPI + Flutter**: SQLAlchemy, Alembic, pruebas con Pytest y migraciones verificadas con PostgreSQL en un pipeline de GitHub Actions.
 - 🎮 **Juego-millonario**: juego de trivia full-stack inspirado en «¿Quién quiere ser millonario?», con Flask, arquitectura en capas, frontend en HTML/CSS/JS y API REST.
-- 🛒 **Treintaclone**: app de punto de venta con Python y KivyMD, inspirada en Treinta, con inventario, ventas y reportes.
-- 📚 **Biblioteca_Flask**: sistema de gestión de biblioteca con autenticación, contraseñas con hash, validación de registro y arquitectura con blueprints.
-- ☕ **App de escritorio en Java Swing** para gestión de un hotel.
+
 
 
 > 🌎 *ES: Desarrollador de software y aprendiz del SENA enfocado en aplicaciones web y de escritorio con Python, JavaScript y Java. Abierto a la colaboración y nuevas oportunidades.*
